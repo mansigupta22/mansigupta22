@@ -20,8 +20,8 @@ I write tech affiliated **articles** on **Hashnode**.
  <p><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></p>
 <br> 
  
-<!-- ## _Streak_ 🔥
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansigupta22&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+## _Streak_ 🔥
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansigupta22&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
  ## 🤝 _Connect With Me:_  
 
